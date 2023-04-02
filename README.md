@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Gustavo Faquim</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
