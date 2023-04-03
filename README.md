@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Gustavo Faquim 🏳️‍🌈</h1>
 <h3 align="center">Full Stack Web Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=I'm+not+a+robot+🤖)](https://git.io/typing-svg) 
 
 
 <!--
