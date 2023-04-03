@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 ##
 <div align="center">
     <h3>About me 🙋🏻‍♂️</h3>
-    <p align="justify">Graduado em Sistemas de Informação, pelo Instiuto de Educação, Ciência e Tecnologia Goiano - Campus Ceres</p>
+    <p align="justify">👨🏻‍🎓 Graduado em Sistemas de Informação, pelo Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Ceres</p>
+    <p align="justify">📚 Pós-graduando em Desenvolvimento Web Full Stack</p>
 </div> 
  
 
