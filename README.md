@@ -30,13 +30,29 @@ Here are some ideas to get you started:
 ##
 
 <div align="center">
+ <h3> Connect with me: 🤳🏻 </h3>
+   
+    <div align="center">
+        <a target="_blank" href="https://www.linkedin.com/in/gustavofaquim/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+        <a target="_blank" href="mailto:gustavofaquim408@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        <a target="_blank" href="https://www.behance.net/gustavofaquim">
+            <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt=""></a>
+    </div>
+</div> 
+
+
+
+##
+
+<div align="center">
     <h3> Skill's </h3>
      <div align="center">
        <a href="https://github.com/gustavofaquim"> <br>
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavofaquim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofaquim&layout=compact&langs_count=7&theme=gotham"/>
 </div> 
-##
 
 <div align="center">
       <h3> Programming Language's 🗣️ </h3>
