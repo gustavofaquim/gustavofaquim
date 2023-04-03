@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Gustavo Faquim 🏳️‍🌈</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&width=435&lines=Im+not+a+robot)](https://git.io/typing-svg) 
-
 
 <!--
 **gustavofaquim/gustavofaquim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
