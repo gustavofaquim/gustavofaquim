@@ -50,7 +50,7 @@ Here are some ideas to get you started:
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofaquim&layout=compact&langs_count=7&theme=gotham"/>
 </div> 
 
-<div align="center" style="background-color: #FFF; box-shadow: 10px 4px 28px -11px rgba(128,124,128,1)">
+<div align="center">
       <h3>Languages and Technologies🗣️</h3>
       <div style="display: inline_block">
        <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
